@@ -7,7 +7,7 @@ function App(){
   const[result, setResult] = useState("");
 
   const generate = () => {
-    const output = `Developed ${project} using ${tech}, implementing ${features} to improve performance and user experience.`;
+    const output = Developed ${project} using ${tech}, implementing ${features} to improve performance and user experience.;
     setResult(output);
   };
 
@@ -25,7 +25,7 @@ function App(){
 
     <hr />
 
-    <a href="https://digitalheroesco.com" target="_blank">Built for Digital Heroes</a>
+    <a href="https://digitalheroesco.com" target="_blank" rel="noreferrer33">Built for Digital Heroes</a>
     <p>Sanchita Das</p>
     <p>Email:{"sanchitadasniki@gmail.com"}</p>
     </div>
