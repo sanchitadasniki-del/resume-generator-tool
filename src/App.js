@@ -25,7 +25,7 @@ function App(){
 
     <hr />
 
-    <a href="https://digitalheroesco.com" target="_blank" rel="noreferrer33">Built for Digital Heroes</a>
+    <a href="https://digitalheroesco.com" target="_blank" rel="noreferrer">Built for Digital Heroes</a>
     <p>Sanchita Das</p>
     <p>Email:{"sanchitadasniki@gmail.com"}</p>
     </div>
